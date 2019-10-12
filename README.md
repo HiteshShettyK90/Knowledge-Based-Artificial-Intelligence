@@ -1,2 +1,2 @@
 # Knowledge Based Artificial Intelligence
- This repository contains Cognitive Computing projects.
+ This repository contains projects on Kownledge Based Artificial Intelligence.
