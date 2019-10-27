@@ -1,0 +1,99 @@
+2x1 Basic Problem 17
+2x1 (Image)
+1
+1
+	D
+		count:3
+		right-of-center:True
+		above-of-center:True
+		shape:shape_4
+	E
+		count:1
+		right-of-center:True
+		above-of-center:True
+		size:small
+		shape:shape_5
+2
+	D
+		count:3
+		right-of-center:True
+		above-of-center:True
+		shape:shape_4
+	E
+		count:1
+		right-of-center:True
+		above-of-center:True
+		size:small
+		shape:shape_5
+3
+	D
+		count:4
+		right-of-center:True
+		above-of-center:True
+		shape:shape_4
+4
+	D
+		count:3
+		right-of-center:True
+		above-of-center:True
+		shape:shape_4
+	E
+		count:1
+		right-of-center:True
+		above-of-center:True
+		size:small
+		shape:shape_4@101
+5
+	D
+		count:3
+		right-of-center:True
+		above-of-center:True
+		shape:shape_4
+	E
+		count:1
+		right-of-center:True
+		above-of-center:True
+		size:small
+		shape:shape_4@101
+6
+	D
+		count:3
+		right-of-center:True
+		above-of-center:True
+		shape:shape_4
+	E
+		count:1
+		right-of-center:True
+		above-of-center:True
+		size:small
+		shape:shape_4@101
+A
+	D
+		count:3
+		right-of-center:True
+		above-of-center:True
+		shape:shape_12
+	E
+		count:1
+		right-of-center:True
+		above-of-center:True
+		size:small
+		shape:shape_12@101
+B
+	D
+		count:3
+		right-of-center:True
+		above-of-center:True
+		shape:shape_12
+	E
+		count:1
+		right-of-center:True
+		above-of-center:True
+		size:small
+		shape:shape_12@101
+C
+	D
+		count:4
+		right-of-center:True
+		above-of-center:True
+		shape:shape_4

@@ -1,0 +1,87 @@
+2x1 Basic Problem 16
+2x1 (Image)
+3
+1
+	D
+		count:2
+		right-of-center:True
+		above-of-center:True
+		size:large
+		shape:shape_4
+	E
+		count:2
+		right-of-center:True
+		above-of-center:True
+		size:small
+		shape:circle
+2
+	D
+		count:2
+		right-of-center:True
+		above-of-center:True
+		size:small
+		shape:circle
+3
+	D
+		count:2
+		right-of-center:True
+		above-of-center:True
+		size:large
+		shape:shape_3
+4
+	D
+		count:2
+		right-of-center:True
+		above-of-center:True
+		size:large
+		shape:circle
+	E
+		count:1
+		right-of-center:True
+		above-of-center:True
+		size:small
+		shape:shape_4
+	F
+		count:1
+		right-of-center:True
+		above-of-center:True
+		size:small
+		shape:shape_3
+5
+	D
+		count:4
+		right-of-center:True
+		above-of-center:True
+		shape:shape_4
+6
+	D
+		count:2
+		right-of-center:True
+		above-of-center:True
+		size:large
+		shape:circle
+A
+	D
+		count:4
+		right-of-center:True
+		above-of-center:True
+		shape:circle
+B
+	D
+		count:2
+		right-of-center:True
+		above-of-center:True
+		size:large
+		shape:circle
+C
+	D
+		count:3
+		right-of-center:True
+		above-of-center:True
+		shape:shape_4
+	E
+		count:1
+		right-of-center:True
+		above-of-center:True
+		size:small
+		shape:shape_3
