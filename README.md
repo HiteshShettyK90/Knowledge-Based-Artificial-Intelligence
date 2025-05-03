@@ -5,4 +5,4 @@
  
  The object and the feature detection from the bitmap images are done using [OpenCV library](https://pypi.org/project/opencv-python/).
 
- Find the repo architecture on following [Deepwiki](https://deepwiki.com/HiteshShettyK90/Knowledge-Based-Artificial-Intelligence)
+ Find the repo architecture on following link [Deepwiki](https://deepwiki.com/HiteshShettyK90/Knowledge-Based-Artificial-Intelligence)
